@@ -1,0 +1,26 @@
+[
+    {
+        "registration_number": "001",
+        "name": "Jure Sarac",
+        "grade": "5",
+        "classroom": "A"
+    },
+    {
+        "registration_number": "002",
+        "name": "Zvonko Zlo",
+        "grade": "8",
+        "classroom": "B"
+    },
+    {
+        "registration_number": "003",
+        "name": "Filipa",
+        "grade": "8",
+        "classroom": "C"
+    },
+    {
+        "registration_number": "004",
+        "name": "Klara",
+        "grade": "3",
+        "classroom": "C"
+    }
+]
